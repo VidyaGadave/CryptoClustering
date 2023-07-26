@@ -1,6 +1,8 @@
 # CryptoClustering
 
-This Jupyter notebook uses crypto_market_data.csv  file data for calculations and it performs below tasks-
+This Jupyter notebook uses crypto_market_data.csv file data and uses unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+
+It performs below functionalities-
 
 1. Prepare the Data
 2. Find the Best Value for k Using the Original Scaled DataFrame
